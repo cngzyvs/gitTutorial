@@ -1,3 +1,5 @@
 Akan
 Başlık
 Belgemin ilk paragrafı
+
+İlk paragraf oluşturuldu.
