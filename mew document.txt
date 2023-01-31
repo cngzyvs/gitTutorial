@@ -3,3 +3,6 @@ New documet opende
 Birinci Paragraf
 
 İkinci Paragraf
+
+Üçüncü paragraf.
+	Baba ve oğlun hikayesi. Bu kısmı tamamla.
